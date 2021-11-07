@@ -1,7 +1,7 @@
 # Module 8
 ## Problem Set No. 7
 
-This repository contains all of files you need to complete Problem Set 6.
+This repository contains all of files you need to complete Problem Set 7.
 
 This repository contains 9 folders. One folder for each problem.
 
