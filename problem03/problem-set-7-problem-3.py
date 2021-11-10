@@ -1,5 +1,5 @@
-# Module 6
-# Problem Set No. 6
+# Module 8
+# Problem Set No. 7
 # Problem 3
 
 def cuber():
