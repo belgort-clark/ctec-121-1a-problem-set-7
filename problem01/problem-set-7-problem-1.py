@@ -1,4 +1,5 @@
 # Module 8
+# YOUR NAME MUST BE HERE
 # Problem Set No. 7
 # Problem 1
 
@@ -10,7 +11,7 @@ def generatePassword(passwordLength):
     # string contained all of the possible characters
     possiblePasswordChars = string.ascii_letters + string.digits + "!$%^*/?-&"
 
-    password = ''
+    password = ""
     for i in range(passwordLength):
         randomNumber = randrange(0, len(possiblePasswordChars) - 1)
         # YOUR CODE GOES BELOW THIS COMMENT: get a single character from the string using the randomNumber generated

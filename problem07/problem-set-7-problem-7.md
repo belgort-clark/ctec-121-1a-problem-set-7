@@ -2,7 +2,7 @@
 ## Problem Set No. 7
 ## Problem 7
 
-## Rally for Good Pizza!
+## Rally for Good Pizza
 
 **IMPORTANT - PROVIDE AN IPO (Inputs, Processes, and Output) AT THE TOP OF EACH PROGRAM USING COMMENTS.**
 

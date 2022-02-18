@@ -13,5 +13,5 @@ You must code your solution using both a main() function and one named shuffleSt
 Here's a list of random student names to get you started:
 
 ```Python
-students = ["Jason","Josh","Kalina","Patrick","Sam","Rachel","Quinn H.","Brandon","Robin","Jeremy","Wayne","Connor","Chris","Fred","Jacob","McGuire","Quinn C.","Drake","Eugene"]
+students = ["Jason","Kaden","Kalina","Patrick","Sam","Rachel","Quinn H.","Brandon","Robin","Jeremy","Wayne","Connor","Chris","Fred","Jacob","McGuire","Quinn C.","Drake","Eugene"]
 ```

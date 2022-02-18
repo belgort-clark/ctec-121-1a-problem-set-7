@@ -27,7 +27,7 @@
 
 ![How random.randrange() works](randrange.png)
 
-- Create a variable and assign it a string containing all of the uppercase letters, lowercase letters, the numbers 0-9 and the symbols !$%^*/?-&
+- Create a variable and assign it a string containing all of the uppercase letters, lowercase letters, the numbers 0-9 and the symbols !$%@^*/?-&
 - Use string slicing (for the variable created in item 3 above and string concatenation to generate the password
 - Open a file using the open() function and set it's mode to "a" (for append)
 - Write each password to the file and be sure to include a "\n" with each write. This will create a newline character in the file.
